@@ -1791,7 +1791,7 @@ body.js_nav .mobile_menu_wrapper, html[data-menu=leftmenu] body.js_nav .mobile_m
 	left: 0;
 }
 
-:root body.js_nav .mobile_menu_wrapper { margin-left: 0px; \0/IE9; }  /* IE9 + IE10pp4 */
+:root body.js_nav .mobile_menu_wrapper { margin-left: 0px; \0/IE9; };  /* IE9 + IE10pp4 */
 
 #close_mobile_menu
 {
